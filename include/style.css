@@ -1,0 +1,48 @@
+body{
+	background-color:grey;
+}
+
+#wrapper{
+	margin: 0px auto 0px auto;
+	min-width:780px;
+	max-width:1000px;
+	
+	
+}
+
+
+#menubalk{
+	background-color:white;
+	height:25px;	
+	padding:20px 0px 0px 50px;
+	border-radius:10px 10px 0px 0px;
+}
+#menubalk ul{
+	list-style-type: none;
+	display:inline;
+	margin-left:0px;
+	padding-left:0px;
+}
+#menubalk li{
+	display:inline;
+	margin-left:15px;
+	
+}
+#nav{
+	background-color:white;
+	margin-top:20px;
+	min-height:500px;
+	border-radius:10px 10px 10px 10px;
+	max-height:2000px;
+}
+.tabel{
+padding:20px;
+
+
+}
+a:link, a:visited{text-decoration:none; color:#416CE5; }
+
+
+.right{
+	float:right;
+}
